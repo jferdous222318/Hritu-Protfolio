@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 500" width="800" height="500">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#12261c"/><stop offset="1" stop-color="#0a0f0a"/></linearGradient></defs>
+<rect width="800" height="500" fill="url(#g)"/>
+<rect x="30" y="30" width="740" height="440" rx="18" fill="#0a0f0a" opacity="0.35" stroke="#74c69d" stroke-opacity="0.35"/>
+<circle cx="58" cy="58" r="6" fill="#74c69d" opacity="0.9"/><circle cx="78" cy="58" r="6" fill="#74c69d" opacity="0.6"/><circle cx="98" cy="58" r="6" fill="#74c69d" opacity="0.35"/>
+<rect x="60" y="84" width="680" height="1" fill="#74c69d" opacity="0.3"/>
+<rect x="60" y="150" width="170" height="48" rx="10" fill="#74c69d" opacity="0.35"/><text x="145" y="180" text-anchor="middle" font-family="Georgia,serif" font-size="20" fill="#e8f5ee">Images</text><path d="M236 174 L400 255" stroke="#74c69d" stroke-width="3" opacity="0.8"/><rect x="60" y="212" width="170" height="48" rx="10" fill="#74c69d" opacity="0.35"/><text x="145" y="242" text-anchor="middle" font-family="Georgia,serif" font-size="20" fill="#e8f5ee">Genes</text><path d="M236 236 L400 255" stroke="#74c69d" stroke-width="3" opacity="0.8"/><rect x="60" y="274" width="170" height="48" rx="10" fill="#74c69d" opacity="0.35"/><text x="145" y="304" text-anchor="middle" font-family="Georgia,serif" font-size="20" fill="#e8f5ee">Clinical</text><path d="M236 298 L400 255" stroke="#74c69d" stroke-width="3" opacity="0.8"/><circle cx="440" cy="255" r="48" fill="#74c69d" opacity="0.9"/><rect x="520" y="235" width="220" height="40" rx="12" fill="#0a0f0a" opacity="0.55"/><path d="M490 255 h24" stroke="#74c69d" stroke-width="4" stroke-linecap="round"/>
+<text x="60" y="430" font-family="Georgia,serif" font-size="30" font-weight="700" fill="#e8f5ee">Breast Cancer Recurrence Prediction</text>
+</svg>
